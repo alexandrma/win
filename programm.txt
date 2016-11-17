@@ -1,12 +1,11 @@
-glaswire https://www.glasswire.com/
-DriverPackOnline https://drp.su/ru/
-keepas http://keepass.info/download.html
-hitmanpro https://www.sophos.com/en-us/products/free-tools/sophos-malware-removal-tool.aspx
-Kaspersky Cleaner http://free.kaspersky.com/
-kaspersky software updater http://free.kaspersky.com/
-vlc player http://www.videolan.org/vlc/
-open office https://www.openoffice.org/download/index.html
-DoubleComander https://sourceforge.net/p/doublecmd/wiki/Download/
-Windows http://remontka.pro/download-windows-7-8-10-original-iso-microsoft/
-VMware Worstation Player https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0
-
+antivirus         hitmanpro https://www.sophos.com/en-us/products/free-tools/sophos-malware-removal-tool.aspx
+cleaner           Kaspersky Cleaner http://free.kaspersky.com/
+drivers           DriverPackOnline https://drp.su/ru/
+file-manager      DoubleComander https://sourceforge.net/p/doublecmd/wiki/Download/
+firewall          glaswire https://www.glasswire.com/
+office            open office https://www.openoffice.org/download/index.html
+operation-system  Windows http://remontka.pro/download-windows-7-8-10-original-iso-microsoft/
+password-manager  keepas http://keepass.info/download.html
+player            vlc player http://www.videolan.org/vlc/
+sowtware-updater  kaspersky software updater http://free.kaspersky.com/
+virtual-machine   VMware Worstation Player https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0
