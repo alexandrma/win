@@ -7,5 +7,6 @@ office            open office https://www.openoffice.org/download/index.html
 operation-system  Windows http://remontka.pro/download-windows-7-8-10-original-iso-microsoft/
 password-manager  keepas http://keepass.info/download.html
 player            vlc player http://www.videolan.org/vlc/
-sowtware-updater  kaspersky software updater http://free.kaspersky.com/
+software-updater  kaspersky software updater http://free.kaspersky.com/
+software-updater  SUMo http://www.kcsoftwares.com/?download
 virtual-machine   VMware Worstation Player https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0
