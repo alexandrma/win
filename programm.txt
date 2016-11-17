@@ -4,6 +4,7 @@ drivers           DriverPackOnline https://drp.su/ru/
 file-manager      DoubleComander https://sourceforge.net/p/doublecmd/wiki/Download/
 firewall          glaswire https://www.glasswire.com/
 office            open office https://www.openoffice.org/download/index.html
+office            Adobe Acrobat Reader DC http://www.adobe.com/downloads.html
 operation-system  Windows http://remontka.pro/download-windows-7-8-10-original-iso-microsoft/
 password-manager  keepas http://keepass.info/download.html
 player            vlc player http://www.videolan.org/vlc/
